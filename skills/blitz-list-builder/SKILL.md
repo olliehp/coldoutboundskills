@@ -21,6 +21,11 @@ If you already know the target companies (from Google Maps, a CSV of competitors
 
 Often: use Prospeo to build the initial list, then Blitz to add 1-2 more contacts per company.
 
+**GEX Reference:** This implements domain-first list building and the email waterfall from GEX.
+
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "Account-to-Contact Filtering Order" (account first, then contacts)
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** → "Email Waterfall (3-4 Providers Max)" for contact enrichment
+
 ## Prerequisites
 
 - Blitz API key (env: `BLITZ_API_KEY`) — sign up at their website

@@ -19,6 +19,14 @@ This is the beginner-friendly version of the GEX internal `auto-research-v2`. Al
   - Campaign assigned to your available inboxes
   - Schedule: Mon-Fri 8am-5pm your timezone
 
+**GEX Reference:** This orchestrates the entire GEX cold email system end-to-end.
+
+- **[01_Principles](../../references/gex-wrapped/01_Principles.md)** → the 3 questions (the script answers all 3 from the target domain + your profile)
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → Phase 2 (Prospeo list building + account-to-contact filtering)
+- **[05_Copywriting](../../references/gex-wrapped/05_Copywriting.md)** → Phase 4 (4-sentence framework, AI prompting)
+- **[06_Sequences](../../references/gex-wrapped/06_Sequences.md)** → Phase 4 (A/B/C variants, threading structure)
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** → Phase 5 (inbox selection, warm-up aware)
+
 ## Prerequisites
 
 Before running:

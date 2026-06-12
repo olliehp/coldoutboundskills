@@ -19,6 +19,12 @@ Google Maps gives you COMPANIES (name, domain, phone, address, ratings). It does
 
 This skill is only the first step.
 
+**GEX Reference:** This implements the data pipeline and account-to-contact filtering for local SMB campaigns.
+
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "LinkedIn-First Data Assumption" (when NOT to use LinkedIn; local services require Google Maps or other tools)
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "Account-to-Contact Filtering Order" (build company lists first, then find contacts)
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "The Data Pipeline Stack" (account enrichment, then contact enrichment)
+
 ## Required step: Qualify with /icp-prompt-builder
 
 **This is a required step. Do not skip it.**

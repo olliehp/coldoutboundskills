@@ -19,6 +19,14 @@ This skill operates like Typeform—you confirm key decisions at each step befor
 
 At each step, present 2-3 options with recommendations. If the user asks for more ideas, generate additional options.
 
+## GEX Framework Reference
+
+This skill implements the 4-sentence cold email framework from GEX.
+
+- **[05_Copywriting](../../references/gex-wrapped/05_Copywriting.md)** — the 4-sentence framework, subject line rules, poke the bear, WIIFT test, problem sniffing, things to avoid
+- **[10_Prompts](../../references/gex-wrapped/10_Prompts.md)** — 13 templates covering different campaign types (lookalike, creative ideas, poke bear, etc.)
+- **[06_Sequences](../../references/gex-wrapped/06_Sequences.md)** — threading structure (E1 net new, E2 threaded, E3 new, E4 redirect) and TAM pacing
+
 ---
 
 ## Input Sources

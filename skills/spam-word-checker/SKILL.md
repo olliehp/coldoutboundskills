@@ -24,6 +24,11 @@ Always-on spam and deliverability rules. Apply to every subject line, opener, se
 - If a deliverability checker or review flags a word/phrase, treat it as banned going forward unless user explicitly approves an exception
 - When in doubt, choose the lower-hype rewrite
 
+**GEX Reference:** This implements the "Things to Avoid" and "Anti-Spam Principle" from GEX.
+
+- **[05_Copywriting](../../references/gex-wrapped/05_Copywriting.md)** → "Things to Avoid" (hope this email finds you, Hi I'm X, jargon words, long emails, calendar links in CTAs, etc.)
+- **[01_Principles](../../references/gex-wrapped/01_Principles.md)** → "The Anti-Spam Principle" (do the opposite of what spammers do)
+
 ---
 
 ## Banned Single Words

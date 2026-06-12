@@ -14,6 +14,17 @@ The single entry point for a fresh user. Replaces "stare at 29 skills and guess 
 - Experienced operator starting a new campaign for a new business
 - Anyone who asks "where do I start?"
 
+## GEX Framework Reference
+
+This skill operationalizes the GEX principle: **Offer before Audience before Copy.**
+
+Read these sections for the thinking behind what this skill does:
+- **[01_Principles](../../references/gex-wrapped/01_Principles.md)** — the 3 cold email questions, offer hierarchy, 30% response ceiling
+- **[04_Offers](../../references/gex-wrapped/04_Offers.md)** — why offer (not copy) comes first; lead magnet structure
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** — trigger-based ICP definition, account-to-contact filtering
+
+The flow (ICP → offer → strategy) encodes this priority.
+
 ## What this skill produces
 
 - A populated `profiles/<business-slug>/client-profile.yaml` (from `/icp-onboarding`)

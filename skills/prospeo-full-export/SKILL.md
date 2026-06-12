@@ -15,6 +15,11 @@ Before exporting more than 500 contacts, run Prospeo on a 50-contact sample, the
 
 **Safe skip:** only if your Prospeo filter is already extremely tight (e.g., 5 exact titles + 1 industry + narrow headcount) AND you've run the same filter successfully before. Even then, run `/icp-prompt-builder` on 10 samples as a sanity check — it's nearly free to confirm.
 
+**GEX Reference:** This implements the data pipeline and account-to-contact filtering from GEX.
+
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "The Data Pipeline Stack" (Apollo → Clay → email finder → verification) and "Account-to-Contact Filtering Order"
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "TAM Math for List Cadence" — check your math before exporting 25K contacts
+
 ## What This Does
 
 1. You build a search in Prospeo's web UI (filters for title, location, industry, company size, etc.)

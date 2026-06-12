@@ -35,6 +35,8 @@ Possible causes (the audit's "root-cause suggestions" try to pinpoint which):
 
 Below 200 sends: too early to judge. The rule needs sample size.
 
+**GEX Reference:** The 1% positive reply rate is the master diagnostic from GEX. See [07_Experiments](../../references/gex-wrapped/07_Experiments.md) → "The 1% Positive Reply Rate Threshold" and [02_Deliverability](../../references/gex-wrapped/02_Deliverability.md) for bounce diagnosis and recovery strategies.
+
 ## When to use
 
 - Reply rate dropped by >30% week-over-week → run the full audit

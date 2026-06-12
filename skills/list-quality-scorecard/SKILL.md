@@ -17,6 +17,11 @@ The three campaign failure modes cold email runners hit most:
 
 Each of these is catchable before you send, in 5 minutes, for free.
 
+**GEX Reference:** This implements the "10 Things I Hate About You" rule and list audit from GEX.
+
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "The '10 Things I Hate About You' Rule" (audit before sending; common list problems: wrong company size, consulting/agency contamination, executive assistants vs. decision-makers, fintech mixed with banking, job titles that span functions)
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "Account-to-Contact Filtering Order" (account errors before contact errors)
+
 ## Inputs
 
 A CSV with at minimum these columns:

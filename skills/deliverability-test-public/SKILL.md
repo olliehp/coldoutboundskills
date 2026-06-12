@@ -16,6 +16,11 @@ Different inbox types have different deliverability characteristics:
 
 If your campaigns mix inbox types, this skill shows which type is earning its keep.
 
+**GEX Reference:** This tests a specific GEX deliverability hypothesis from experiments.
+
+- **[07_Experiments](../../references/gex-wrapped/07_Experiments.md)** → "Instantly vs. Smartlead Platform Test" and "Inbox Volume Test" (real testing data from campaigns)
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** → "ESP Matching" (send Google-to-Google, Outlook-to-Outlook for better deliverability)
+
 ## What you need
 
 - `SMARTLEAD_API_KEY` in env

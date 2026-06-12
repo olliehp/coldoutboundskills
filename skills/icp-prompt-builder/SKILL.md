@@ -13,6 +13,11 @@ List-builder skills (DiscoLike, Blitz, Prospeo, Google Maps) return COMPANIES, b
 
 The fix: build an AI qualification prompt BEFORE scaling. Pull 10 companies, have the prompt score them, compare to your judgment, refine, repeat. Once the prompt agrees with you 2 rounds in a row with zero corrections, lock it in and apply it at scale.
 
+**GEX Reference:** This implements the "10 Things I Hate About You" rule from GEX — audit every list before sending.
+
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "The '10 Things I Hate About You' Rule" (find 10 things wrong with the list; if you can't find 10, you didn't look hard enough)
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "Account-to-Contact Filtering Order" (filter accounts before contacts)
+
 ## Always uses Task sub-agents (no API key)
 
 This skill runs entirely inside Claude Code via the Task tool. No Anthropic SDK calls, no OpenAI calls — Claude Code does the scoring itself. This is intentional:

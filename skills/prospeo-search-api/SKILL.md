@@ -14,6 +14,8 @@ Use this skill when:
 - Building lead lists from Prospeo's database
 - Running large US-wide searches that need state-by-state crawling
 
+**GEX Reference:** Before running your Prospeo search, read [03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md) → "The Data Pipeline Stack" to understand where Prospeo fits in the broader list-building flow. Also check "Account-to-Contact Filtering Order" — filter at the account level first (company size, industry), then contact level (title, tenure).
+
 ## API Overview
 
 **Endpoint:** `POST https://api.prospeo.io/search-person`

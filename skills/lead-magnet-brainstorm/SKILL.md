@@ -16,6 +16,13 @@ A good lead magnet is:
 2. **Genuinely valuable to the prospect** (they'd pay for it, or it saves them obvious time/money)
 3. **Demonstrates your competence** (so buying becomes the natural next step)
 
+## GEX Framework Reference
+
+This skill teaches the "offer before audience before copy" principle from GEX — specifically, offer design.
+
+- **[04_Offers](../../references/gex-wrapped/04_Offers.md)** — lead magnet criteria (Hormozi framework), straight-line-to-cash test, front-end offer structure
+- **[10_Prompts](../../references/gex-wrapped/10_Prompts.md)** — see "Creative Ideas Campaign Template" for how a strong offer frames CTAs
+
 ## When to use
 
 - During `/icp-onboarding` when the user can't answer the "what can you give away" question

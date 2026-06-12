@@ -17,6 +17,11 @@ This skill runs entirely inside Claude Code via the Task tool. No Anthropic SDK 
 
 At very large scale (1,000+ leads), the tuned prompt can optionally be shipped to the Anthropic API for throughput. But TUNING and normal campaign runs (under 500 leads) always go through the Task tool.
 
+**GEX Reference:** This implements per-lead AI prompting and personalization from GEX.
+
+- **[05_Copywriting](../../references/gex-wrapped/05_Copywriting.md)** → "AI Prompting for Cold Email Copy (4-Step Framework)" (frame without "cold email", use real company data, specify tone + format, use prefix stems)
+- **[10_Prompts](../../references/gex-wrapped/10_Prompts.md)** → "Common AI Personalization Stems" (table stakes beyond which you build custom)
+
 ## The approval loop (before full fan-out)
 
 Don't personalize 500 leads and then discover the prompt is wrong. Loop first, then scale.

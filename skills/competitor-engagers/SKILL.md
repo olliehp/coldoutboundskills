@@ -14,6 +14,11 @@ After collecting the engager CSV, sample ~50 rows and run `/icp-prompt-builder` 
 
 **Why required:** unfiltered engager lists typically have 30-50% non-ICP rows (fans, peers, recruiters, students). Running `/icp-prompt-builder` on a 50-row sample, tuning the qualification prompt, then applying it to the full list cuts wasted enrichment + send costs. Takes 10-15 min.
 
+**GEX Reference:** This implements the social trigger strategy from GEX — one of the highest-performing list building methods in 2024.
+
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "Social Trigger (2024's Top Performer)" (scrape LinkedIn engagement via Clay + Trigify; reference a post in your email to increase response rate)
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "Trigger-Based List Selection" (a trigger only works if it changes the messaging; reference the engagement in your first email)
+
 ## Setup (First Time Only)
 
 Before running, ensure these environment variables are set in `~/.env`:

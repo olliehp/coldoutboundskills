@@ -6,6 +6,13 @@ description: "Public guide: Generate short domain names, check availability, pur
 
 Complete workflow to generate short domain names, purchase them on Dynadot, and set them up on Zapmail with inboxes ready for cold email sending.
 
+## GEX Framework Reference
+
+This skill operationalizes the infrastructure baseline from GEX.
+
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** — infrastructure baseline (Google Workspace/Outlook, 2 inboxes per domain, 3-week warmup, SPF/DKIM/DMARC, separate sending domains)
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** → "Batch Insurance System" — for agency scale, set up 4x capacity across multiple inbox providers
+
 ---
 
 ## First-Time Setup (Onboarding)

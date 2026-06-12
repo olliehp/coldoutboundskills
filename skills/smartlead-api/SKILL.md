@@ -6,6 +6,8 @@ user_invocable: false
 
 # Smartlead API Reference
 
+**GEX Reference:** Use this alongside [06_Sequences](../../references/gex-wrapped/06_Sequences.md) when uploading campaigns — the TAM pacing formula and threading structure guide how to structure your sends in Smartlead.
+
 ## Authentication
 
 All requests use query parameter auth: `?api_key={SMARTLEAD_API_KEY}`

@@ -19,6 +19,11 @@ Cold email launches should never happen from a script. You hit Start in the Smar
 
 The script sets all of this up in DRAFT so the review is trivial — verify and click Start.
 
+**GEX Reference:** This operationalizes the sequence and pacing decisions from GEX.
+
+- **[06_Sequences](../../references/gex-wrapped/06_Sequences.md)** → "TAM Pacing Formula" and "Sequence Length Rule" (use the formula before uploading to set daily volume)
+- **[06_Sequences](../../references/gex-wrapped/06_Sequences.md)** → "Threading Structure" (E1 net new, E2 threaded, E3 new, E4 redirect) — organize your campaigns this way
+
 ## Inputs
 
 ### `leads.csv`

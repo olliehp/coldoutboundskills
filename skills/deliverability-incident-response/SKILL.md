@@ -17,6 +17,11 @@ Things break. When they do, you need a playbook — not panic. This skill is the
 | Inbox blocked in warmup | Warmup network flagged sending patterns | Pause, investigate, maybe replace | 1-7 days |
 | Gmail marking as promotional | Content triggers (links, images, HTML) | Simplify content | 1-3 days |
 
+**GEX Reference:** This playbook implements the "Inbox Decay Response Protocol" from GEX: when inboxes decline, swap inboxes, change copy, pull new list (never troubleshoot root cause).
+
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** → "Inbox Decay Response Protocol" and "Bounce Diagnosis"
+- **[09_Playbooks](../../references/gex-wrapped/09_Playbooks.md)** → "Inbox Rotation and Maintenance Playbook" for the mechanical fix
+
 ## Decision tree: "my reply rate dropped"
 
 ### Step 1: Quantify the drop

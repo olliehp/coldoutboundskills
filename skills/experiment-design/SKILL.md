@@ -15,6 +15,11 @@ Then campaign 2 changes all three again. Regression. Nobody knows why.
 
 This skill is the antidote: plan each experiment around ONE variable, keep everything else constant, and confidence-weight the results.
 
+**GEX Reference:** This implements the experimentation methodology from GEX.
+
+- **[07_Experiments](../../references/gex-wrapped/07_Experiments.md)** — full testing methodology with real examples (subject lines, platform tests, AI vs manual, channel invalidation)
+- **[09_Playbooks](../../references/gex-wrapped/09_Playbooks.md)** → "Message-Market Fit Testing Playbook (4 Batches)" — concrete 4-batch testing structure (messaging, triggers, formatting, validation)
+
 ## The three experiment types
 
 ### A. List-only experiment

@@ -29,6 +29,14 @@ Not every inbox should send all the time. A common pattern:
 
 Tags are how you track this at scale. Filter by tag in Smartlead UI or via API.
 
+## GEX Framework Reference
+
+This skill operationalizes the batch insurance system and inbox rotation from GEX.
+
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** → "Batch Insurance System" — set up 4x capacity; when one burns, rotate in the next (already warmed)
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** → "Inbox Decay Response Protocol" — when inboxes decline, swap + change copy + pull new list (never troubleshoot)
+- **[09_Playbooks](../../references/gex-wrapped/09_Playbooks.md)** → "Inbox Rotation and Maintenance Playbook" — step-by-step rotation procedure
+
 ## Inputs
 
 Every script reads:

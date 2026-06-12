@@ -9,6 +9,12 @@ Having 29 cold email skills doesn't help if you don't run them on a schedule. Th
 
 **This is a pure playbook.** No scripts, no automatic reminders. You put the rhythm on your own calendar (Step 1 below) and run the prescribed skill at the prescribed time. That's the entire system.
 
+**GEX Reference:** This is the operational rhythm that keeps GEX campaigns alive week-to-week. The skills here ladder up to the monitoring and experimentation frameworks from GEX.
+
+- **[09_Playbooks](../../references/gex-wrapped/09_Playbooks.md)** → "Message-Market Fit Testing Playbook" and "Channel Invalidation Playbook" (when campaigns break, why you fix them, and when to pivot)
+- **[07_Experiments](../../references/gex-wrapped/07_Experiments.md)** → all testing methodology (the Friday retrospective is where you decide what to test next)
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** → "Inbox Decay Response Protocol" (Monday audits catch decay early)
+
 ---
 
 ## Step 1 (required before using this skill): Put the rhythm on your calendar

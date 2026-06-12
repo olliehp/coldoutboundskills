@@ -15,6 +15,11 @@ Spintax lets Smartlead randomly pick one option per send, so no two emails are i
 
 Each option inside the curly braces is separated by a pipe `|`. Smartlead picks one at random per email send.
 
+**GEX Reference:** Spintax is useful but not the primary lever from GEX.
+
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** → "Spintax" (adds synonyms so emails look different to filters; helpful but AI-generated copy already provides natural variation)
+- **[05_Copywriting](../../references/gex-wrapped/05_Copywriting.md)** → "Trying Too Hard" (complex personalization can hurt more than help; focus on message-market fit first)
+
 ---
 
 ## Input Handling

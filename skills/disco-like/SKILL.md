@@ -20,6 +20,10 @@ Lookalike company discovery. Give it 3-10 seed domains you know are a good fit; 
 - Your ICP is extremely narrow or nascent (<5 seed examples exist)
 - Budget is tight — DiscoLike charges per call + per record; see cost section
 
+**GEX Reference:** This implements lookalike list building from GEX.
+
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → "Lookalike List Building" (use Ocean.io or similar to match case studies to lookalike companies; eliminate messaging guesswork)
+
 ## Two search modes
 
 ### Mode A — Seed domains (most common)

@@ -23,6 +23,8 @@ Every offer in the world helps people:
 - **Save money** (reduce costs, eliminate waste, consolidate tools)
 - **Mitigate risk** (compliance, security, avoid mistakes)
 
+**GEX Reference:** This maps to the 6 offers in the world from [01_Principles](../../references/gex-wrapped/01_Principles.md). For B2B, focus on these 4. Also read [04_Offers](../../references/gex-wrapped/04_Offers.md) for "chunking up/down" — when a value prop isn't landing, try abstract (strategic outcomes) or concrete (tactical jobs-to-be-done).
+
 ### Targeting Levels
 
 - **Broad**: The widest possible audience within the given constraints. Requires strong AI personalization to feel relevant.

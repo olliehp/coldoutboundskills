@@ -13,6 +13,15 @@ Most cold email fails because the sender didn't define the ICP tightly enough. "
 
 This skill forces that precision up front. It also separates **hard filters** (must match) from **soft preferences** (nice-to-have), because the #1 mistake beginners make is treating every ICP criterion as required, ending up with a list of 200 leads instead of 5,000.
 
+## GEX Framework Reference
+
+This skill implements the **account-to-contact filtering** principle from GEX.
+
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** — account-first filtering, hard vs. soft criteria, TAM math
+- **[01_Principles](../../references/gex-wrapped/01_Principles.md)** — the 3 cold email questions; ICP precision is the answer to "who are you going to send them to?"
+
+Account filtering (what this skill does) comes before contact filtering (what prospeo-full-export does).
+
 ## Inputs
 
 Either:

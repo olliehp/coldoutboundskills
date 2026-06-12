@@ -21,6 +21,11 @@ Compared side-by-side:
 - Campaign B: 5% reply rate, 10% positive → 0.5% positive reply rate
 - Campaign A wins.
 
+**GEX Reference:** Positive reply rate is the master diagnostic from GEX.
+
+- **[07_Experiments](../../references/gex-wrapped/07_Experiments.md)** → "The 1% Positive Reply Rate Threshold" (after 200+ sends, below 1% is a red flag — emails are landing in spam or copy is broken)
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** → "Spam Rate Is the Master Metric" (focus on this, not volume)
+
 ## Classification schema
 
 Every reply is classified into exactly one bucket:

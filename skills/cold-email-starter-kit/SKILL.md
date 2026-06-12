@@ -21,6 +21,17 @@ By the end of the flow you'll have:
 
 Total cost month 1: ~$186. Recurring: ~$126/mo. See `references/00-getting-started.md` for breakdown.
 
+## GEX Framework Reference
+
+This kit implements the complete GEX cold email system. Before starting, read these to understand the WHY behind each step:
+
+- **[01_Principles](../../references/gex-wrapped/01_Principles.md)** — the 3 cold email questions (how, who, what), offer order, 30% ceiling
+- **[02_Deliverability](../../references/gex-wrapped/02_Deliverability.md)** → steps 1 + 4 (domains, inboxes, warmup)
+- **[03_ListBuilding](../../references/gex-wrapped/03_ListBuilding.md)** → step 5 (account → contact filtering)
+- **[05_Copywriting](../../references/gex-wrapped/05_Copywriting.md)** → step 3 (4-sentence framework, things to avoid)
+- **[06_Sequences](../../references/gex-wrapped/06_Sequences.md)** → step 3 (threading structure, TAM pacing)
+- **[07_Experiments](../../references/gex-wrapped/07_Experiments.md)** → step 8 (1% positive reply threshold, testing methodology)
+
 ---
 
 ## The end-to-end flow
